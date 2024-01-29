@@ -84,7 +84,3 @@ python evaluate.py -m bilstm -d snli
 python scripts/download_pretrained.py -m bilstm -d multinli
 python evaluate.py -m bilstm -d multinli
 ```
-
-## Contribution Note
-I am actively maintaining this repository and adding options for more models and dataset. Please create an issue if you are looking for specific model or dataset.
-
