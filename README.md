@@ -72,17 +72,7 @@ python -m spacy download en
 |    neutral    |  80.118  |
 +---------------+----------+
 ```
-#### Confusion Matrix
-```ruby
-+----------------------+-----------------+--------------------+--------------+-------+
-|   confusion-matrix   | entailment-pred | contradiction-pred | neutral-pred | total |
-+----------------------+-----------------+--------------------+--------------+-------+
-|  entailment-actual   |       2926      |         93         |     349      |  3368 |
-| contradiction-actual |       166       |        2762        |     309      |  3237 |
-|    neutral-actual    |       355       |        285         |     2579     |  3219 |
-|        total         |       3447      |        3140        |     3237     |  9824 |
-+----------------------+-----------------+--------------------+--------------+-------+
-```
+
 
 ## Evaluate on Pre-trained models
 ```shell
