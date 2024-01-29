@@ -1,5 +1,5 @@
 # pytorch-nli
-This repository aims for providing all the baseline models for Natural Language Inference(NLI) task. The main objective of this repository is to provide extensible code structure and framework for working on NLI tasks. This repository can be taken and used to train various combination of models and datasets. Evaluation on trained model and pre-trained model can also be done. This repository is written using Pytorch and Torchtext.
+This repository is written using Pytorch and Torchtext.
 
 
 #### Supported Options
